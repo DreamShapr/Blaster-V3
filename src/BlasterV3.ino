@@ -5,10 +5,10 @@
 SoftwareSerial mySerial(11, 12); // RX, TX
 
 // Pins
-int trigger = 3;
-int reload = 2;
+int trigger = 10;
+int reload = 8;
 int ammo = 10;
-int laser = 4;
+int laser = 13;
 
 void setup() {
   Serial.begin(9600);
