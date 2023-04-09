@@ -40,3 +40,17 @@ You can find the code in the Src folder. After the wiring, if you are not certai
 ## 3d printing the blaster
 You can find the files [here](https://cults3d.com/en/users/DreamShapr/creations), under the name WESTAR 35 MANDALORIAN BLASTER WITH ELECTRONICS - V3.
 
+
+## Assembly
+![image](![image](https://user-images.githubusercontent.com/129743177/230795180-cc0ce98a-b55f-4d23-b491-ea540a477389.png))
+
+The barel is designed to host the speaker, so it is better you use the same dimensions as the one i used. The sound board can also be placed inside, so the whole sound system is in one place and you don't need too much cable length. The laser or most diodes should fit in the emmiter hole in the barrel, and none of these components should require a fixation system.
+
+The limit switch must be glued into the handle part, but assure yourself that the trigger realy come in contact with the switch when pulled before gluing.
+
+The arduino should be held in place by the cables.
+
+The side display probably will require a little glue or tape.
+
+![image](![image](https://user-images.githubusercontent.com/129743177/230795236-cfec7d25-c50e-4dee-8868-ae3e3e2e6e28.png))
+The reload switch will be held in place with the nut on the outside part, and the on/off switch must be forced into the hole to ensure it don't move.
