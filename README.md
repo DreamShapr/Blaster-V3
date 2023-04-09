@@ -29,7 +29,7 @@ This project requires little to none IT skills, for i will try to walk you throu
 You can change most of the pins, except for the Vin, 5V and GND.
 If you decide to use a led in place of the laser (for safety reasons, for example), you can wire it the same way, but don't forget to add a resistor.
 
-![image](![image](https://user-images.githubusercontent.com/129743177/230795519-05659bd0-0d65-4b94-8a36-82924a9dea29.png))
+![image](https://user-images.githubusercontent.com/129743177/230795519-05659bd0-0d65-4b94-8a36-82924a9dea29.png)
 
 ## Sd card configuration
 Copy the content of the folder "mp3" on the root of the card. It contains the sound files names in the format (000X.mp3).
@@ -43,7 +43,6 @@ You can find the files [here](https://cults3d.com/en/users/DreamShapr/creations)
 
 ## Assembly
 ![image](![image](https://user-images.githubusercontent.com/129743177/230795528-28c2b770-3788-45d2-9fb3-8fbe885c2626.png)
-)
 
 The barel is designed to host the speaker, so it is better you use the same dimensions as the one i used. The sound board can also be placed inside, so the whole sound system is in one place and you don't need too much cable length. The laser or most diodes should fit in the emmiter hole in the barrel, and none of these components should require a fixation system.
 
@@ -53,10 +52,10 @@ The arduino should be held in place by the cables.
 
 The side display probably will require a little glue or tape.
 
-![image](![image](https://user-images.githubusercontent.com/129743177/230795542-c8054f04-b953-4a9d-9b5c-bc2568b0c857.png))
+![image](https://user-images.githubusercontent.com/129743177/230795542-c8054f04-b953-4a9d-9b5c-bc2568b0c857.png)
 The reload switch will be held in place with the nut on the outside part, and the on/off switch must be forced into the hole to ensure it don't move.
 
 # Power source
-![image](![image](https://user-images.githubusercontent.com/129743177/230795562-4fb78c60-63b9-42f9-b6c2-520d6659e406.png))
+![image](https://user-images.githubusercontent.com/129743177/230795562-4fb78c60-63b9-42f9-b6c2-520d6659e406.png)
 For the power source, just strip open the power bank, and connect the red (or +) to Vin arduino, and the black (or -) to Gnd. I suggest keeping the whole socket part to easily recharge the battery the a micro-usb cable.
 
