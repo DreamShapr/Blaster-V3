@@ -29,7 +29,7 @@ This project requires little to none IT skills, for i will try to walk you throu
 You can change most of the pins, except for the Vin, 5V and GND.
 If you decide to use a led in place of the laser (for safety reasons, for example), you can wire it the same way, but don't forget to add a resistor.
 
-![image](https://user-images.githubusercontent.com/129743177/230795071-87c8c174-db06-427d-ab05-0a17377ab25e.png)
+![image]([https://user-images.githubusercontent.com/129743177/230795071-87c8c174-db06-427d-ab05-0a17377ab25e.png](https://user-images.githubusercontent.com/129743177/230795277-bea13ceb-bde7-4005-866e-dceec82eb011.png))
 
 ## Sd card configuration
 Copy the content of the folder "mp3" on the root of the card. It contains the sound files names in the format (000X.mp3).
@@ -56,6 +56,6 @@ The side display probably will require a little glue or tape.
 The reload switch will be held in place with the nut on the outside part, and the on/off switch must be forced into the hole to ensure it don't move.
 
 # Power source
-![image](https://user-images.githubusercontent.com/129743177/230795277-bea13ceb-bde7-4005-866e-dceec82eb011.png)
+![image](![image](https://user-images.githubusercontent.com/129743177/230795461-d037d450-12cf-4a74-84ea-5dfec0fbbcea.png))
 For the power source, just strip open the power bank, and connect the red (or +) to Vin arduino, and the black (or -) to Gnd. I suggest keeping the whole socket part to easily recharge the battery the a micro-usb cable.
 
