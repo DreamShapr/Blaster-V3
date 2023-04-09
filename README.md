@@ -42,7 +42,7 @@ You can find the files [here](https://cults3d.com/en/users/DreamShapr/creations)
 
 
 ## Assembly
-![image](![image](https://user-images.githubusercontent.com/129743177/230795180-cc0ce98a-b55f-4d23-b491-ea540a477389.png))
+![image](![image](https://user-images.githubusercontent.com/129743177/230795257-d6a11056-ae1c-4426-ac41-bf0b0ec874e6.png))
 
 The barel is designed to host the speaker, so it is better you use the same dimensions as the one i used. The sound board can also be placed inside, so the whole sound system is in one place and you don't need too much cable length. The laser or most diodes should fit in the emmiter hole in the barrel, and none of these components should require a fixation system.
 
@@ -54,3 +54,8 @@ The side display probably will require a little glue or tape.
 
 ![image](![image](https://user-images.githubusercontent.com/129743177/230795236-cfec7d25-c50e-4dee-8868-ae3e3e2e6e28.png))
 The reload switch will be held in place with the nut on the outside part, and the on/off switch must be forced into the hole to ensure it don't move.
+
+# Power source
+![image](https://user-images.githubusercontent.com/129743177/230795277-bea13ceb-bde7-4005-866e-dceec82eb011.png)
+For the power source, just strip open the power bank, and connect the red (or +) to Vin arduino, and the black (or -) to Gnd. I suggest keeping the whole socket part to easily recharge the battery the a micro-usb cable.
+
