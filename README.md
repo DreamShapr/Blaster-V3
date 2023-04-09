@@ -57,5 +57,5 @@ The reload switch will be held in place with the nut on the outside part, and th
 
 # Power source
 ![image](https://user-images.githubusercontent.com/129743177/230795562-4fb78c60-63b9-42f9-b6c2-520d6659e406.png)
-For the power source, just strip open the power bank, and connect the red (or +) to Vin arduino, and the black (or -) to Gnd. I suggest keeping the whole socket part to easily recharge the battery the a micro-usb cable.
+For the power source, just strip open the power bank, and connect the red (or +) to Vin switch arduino, and the black (or -) to Gnd. I suggest keeping the whole socket part to easily recharge the battery the a micro-usb cable.
 
